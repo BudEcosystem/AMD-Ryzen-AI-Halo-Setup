@@ -1,0 +1,4 @@
+# local test artifacts
+*.log
+report-*.json
+report-*.txt
