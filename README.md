@@ -11,6 +11,7 @@ installed and configured, then tested end to end.
 ![GPU](https://img.shields.io/badge/GPU-ROCm%20%2B%20Vulkan-ED1C24?logo=amd&logoColor=white)
 ![NPU](https://img.shields.io/badge/NPU-XDNA2%20%C2%B7%2050%20TOPS-ED1C24?logo=amd&logoColor=white)
 ![Shell](https://img.shields.io/badge/shell-bash-4EAA25?logo=gnubash&logoColor=white)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue)](LICENSE)
 
 [Quick start](#-quick-start) · [What you get](#-what-you-get) · [Testing](#-testing-your-system) ·
 [Supported systems](#-supported-systems) · [Options](#%EF%B8%8F-options) · [Troubleshooting](#-troubleshooting)
@@ -330,6 +331,10 @@ amd-ryzen-ai-test --quick                    # health check
 | [`install.sh`](install.sh) | One-line bootstrap: downloads the scripts, runs setup and then the tests |
 | [`amd-ryzen-ai-setup.sh`](amd-ryzen-ai-setup.sh) | The idempotent, staged installer |
 | [`amd-ryzen-ai-test.sh`](amd-ryzen-ai-test.sh) | Standalone acceptance test suite (no root, read-only) |
+
+## 📜 License
+
+[Apache License 2.0](LICENSE). Copyright 2026 Bud Ecosystem.
 
 ---
 

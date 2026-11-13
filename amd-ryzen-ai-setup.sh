@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 Bud Ecosystem — https://github.com/BudEcosystem/AMD-Ryzen-AI-Halo-Setup
 # =============================================================================
 #  amd-ryzen-ai-setup.sh
 #
